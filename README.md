@@ -69,6 +69,10 @@
 
 - [Live Demo Link](https://covid-19-stat.onrender.com/)
 
+## 🚀 Rails Link<a name="rails"></a>
+
+- [Rails Link](https://github.com/Jolak5/hello-rails/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
