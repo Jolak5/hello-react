@@ -28,7 +28,7 @@
 
 # 📖 hello-react <a name="about-project"></a>
 
-**hello-react** is a React App where users can easily check covid 19 stats
+**hello-react** is a React App where users can generate greetings
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -68,6 +68,10 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://covid-19-stat.onrender.com/)
+
+## 🚀 Rails Link<a name="rails"></a>
+
+- [Rails Link](https://github.com/Jolak5/hello-rails/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
