@@ -28,7 +28,7 @@
 
 # 📖 hello-react <a name="about-project"></a>
 
-**hello-react** is a React App where users can easily check covid 19 stats
+**hello-react** is a React App where users can generate greetings
 
 ## 🛠 Built With <a name="built-with"></a>
 
